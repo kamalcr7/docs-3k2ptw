@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-rtwgy1.apel45.com/sitemap.xml
